@@ -14,7 +14,7 @@
                                     {{ session('status') }}
                                 </div>
                             @endif
-                            You are logged in!
+                            Why are u here?
                         </div>
                     </div>
             @else
